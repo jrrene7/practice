@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+table,
+td,
+th {
+  border-right: 1px solid rgba(244, 245, 245, 1);
+  padding: 12px 24px;
+}
